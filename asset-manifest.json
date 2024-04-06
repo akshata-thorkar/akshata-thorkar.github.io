@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/akshata-thorkar.github.io/static/css/main.bf538fe7.css",
+    "main.js": "/akshata-thorkar.github.io/static/js/main.565b9a1c.js",
+    "static/media/HeroImage.jpg": "/akshata-thorkar.github.io/static/media/HeroImage.e87bdcd625210cf29e85.jpg",
+    "index.html": "/akshata-thorkar.github.io/index.html",
+    "main.bf538fe7.css.map": "/akshata-thorkar.github.io/static/css/main.bf538fe7.css.map",
+    "main.565b9a1c.js.map": "/akshata-thorkar.github.io/static/js/main.565b9a1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.565b9a1c.js"
+  ]
+}
